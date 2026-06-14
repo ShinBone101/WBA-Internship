@@ -5,6 +5,6 @@ This repository contains internship tasks and reports.
 Tasks Completed:
 
 - Networking Task 01 (https://github.com/ShinBone101/WBA-Internship/blob/main/Networking%20Task%2001.pdf)
-- Networking Task 02
+- Networking Task 02 (https://github.com/ShinBone101/WBA-Internship/blob/main/Networking%20Task%2002.pdf)
 - Linux Task 01
 
