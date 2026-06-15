@@ -1,11 +1,17 @@
-# Linux Task 03
+Linux Task 01
 
-This folder contains the submission for Linux Task 03.
+This repository contains the submission for Linux Task 01.
 
-## Contents
-- Command Outputs
-- Notes
-- Research Answers
+Contents:
+- Linux_Task_01.pdf
 - Screenshots
+
+Topics Covered:
+- Linux Installation & Verification
+- Basic Navigation Commands
+- Directory Management
+- File Management
+- System Information Collection
+- Linux Research Activity
 
 Submitted by: Anushka Choudhari
