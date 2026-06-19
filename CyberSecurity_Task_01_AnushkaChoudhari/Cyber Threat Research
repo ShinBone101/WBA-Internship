@@ -1,0 +1,73 @@
+Part D: Cyber Threat Research
+
+1. Phishing
+Definition
+Phishing is a cyberattack in which attackers trick users into revealing sensitive information such as passwords,
+banking details, or personal data through fake emails, messages, or websites.
+
+Real-World Example
+Many users receive fake emails claiming to be from banks or online services asking them to log in
+through a malicious link. The stolen credentials are then used by attackers.
+
+Prevention Methods
+-Verify the sender before clicking links.
+-Avoid opening suspicious attachments.
+-Check website URLs carefully.
+-Enable Multi-Factor Authentication (MFA).
+-Use email security filters.
+
+2. Malware
+Definition
+Malware is malicious software designed to damage, disrupt, or gain unauthorized access to computer systems.
+
+Real-World Example
+The WannaCry malware infected thousands of computers worldwide and disrupted businesses, hospitals, and government organizations.
+
+Prevention Methods
+-Install antivirus software.
+-Keep systems updated.
+-Download software only from trusted sources.
+-Avoid suspicious links and attachments.
+-Regularly scan devices for threats.
+
+3. Ransomware
+Definition
+Ransomware is a type of malware that encrypts files and demands payment from victims to restore access.
+
+Real-World Example
+The WannaCry ransomware attack in 2017 affected over 200,000 computers across more than 150 countries.
+
+Prevention Methods
+-Maintain regular backups.
+-Keep operating systems updated.
+-Avoid downloading unknown files.
+-Use antivirus and firewall protection.
+-Train users to recognize phishing attempts.
+
+4. Social Engineering
+Definition
+Social engineering is the manipulation of people into revealing confidential information or performing actions that compromise security.
+
+Real-World Example
+An attacker may pretend to be an IT support employee and ask users for their passwords or verification codes.
+
+Prevention Methods
+-Verify identities before sharing information.
+-Be cautious of urgent requests.
+-Never share passwords.
+-Conduct security awareness training.
+-Follow organizational security policies.
+
+5. Data Breach
+Definition
+A data breach occurs when sensitive, confidential, or personal information is accessed or disclosed without authorization.
+
+Real-World Example
+The Facebook data breach exposed personal information of millions of users, affecting privacy and security.
+
+Prevention Methods
+-Use strong and unique passwords.
+-Enable MFA.
+-Encrypt sensitive data.
+-Monitor systems regularly.
+-Apply security updates promptly.
