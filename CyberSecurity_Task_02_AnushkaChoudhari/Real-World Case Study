@@ -1,0 +1,29 @@
+Part B: Real-World Case Study
+
+Cyber Attack Case Study
+WannaCry Ransomware Attack
+
+What Happened?
+WannaCry was a ransomware attack that occurred in May 2017.
+It spread rapidly across the world by exploiting a vulnerability in Microsoft Windows systems.
+Once a computer was infected, the ransomware encrypted files and demanded a ransom payment in Bitcoin to restore access. 
+The attack affected more than 200,000 computers across over 150 countries, including hospitals, businesses, and government organizations.
+
+Which Part of the CIA Triad Was Affected?
+Availability was the most affected component of the CIA Triad because users were unable to access their files and systems after they were encrypted.
+Integrity was also affected because the ransomware modified and encrypted data without authorization.
+
+What Was the Impact?
+* Thousands of organizations experienced operational disruptions.
+* Hospitals had to cancel appointments and delay treatments.
+* Businesses suffered financial losses due to downtime.
+* Important files became inaccessible to users.
+* Recovery efforts required significant time and resources.
+
+How Could It Have Been Prevented?
+* Regularly updating operating systems and software.
+* Applying security patches provided by Microsoft.
+* Using reliable antivirus and endpoint protection solutions.
+* Maintaining regular backups of important data.
+* Training users to recognize suspicious emails and attachments.
+* Implementing strong network security controls.
