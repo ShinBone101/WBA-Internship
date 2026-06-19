@@ -1,0 +1,49 @@
+CIA Triad Research
+
+1. Confidentiality
+Definition
+Confidentiality refers to protecting sensitive information from unauthorized access and disclosure.
+Only authorized users should be able to view or access the data.
+
+Why It Is Important
+Confidentiality helps protect personal information, financial records, business data, and other sensitive information from cybercriminals and unauthorized users.
+
+Real-World Example
+Online banking systems use usernames, passwords, and encryption to ensure that only account holders can access their financial information.
+
+2. Integrity
+Definition
+Integrity ensures that data remains accurate, complete, and unchanged unless modified by an authorized person.
+
+Why It Is Important
+Organizations rely on accurate information for decision-making. Unauthorized changes to data can result in incorrect records, financial losses, and loss of trust.
+
+Real-World Example
+A college examination system must ensure that student grades cannot be altered by unauthorized individuals.
+
+
+3. Availability
+Definition
+Availability ensures that systems, applications, and data are accessible whenever authorized users need them.
+
+Why It Is Important
+If important systems become unavailable, business operations, education services, and communication can be disrupted.
+
+Real-World Example
+A college website should remain accessible during admissions, examinations, and result announcements.
+
+
+
+Comparison Table
+
+| CIA Component   | Definition                                                   | Importance                                    | Real-World Example    |
+| --------------- | ------------------------------------------------------------ | --------------------------------------------- | --------------------- |
+| Confidentiality | Protects data from unauthorized access                       | Maintains privacy and security of information | Online Banking System |
+| Integrity       | Ensures data accuracy and prevents unauthorized modification | Maintains trust in information                | Examination Records   |
+| Availability    | Ensures systems and data are accessible when needed          | Supports continuous operations                | College Website       |
+
+# Conclusion
+
+The CIA Triad forms the foundation of cybersecurity. Confidentiality protects information from unauthorized access, 
+Integrity ensures data remains accurate and trustworthy, and Availability guarantees that systems and services remain accessible.
+Together, these three principles help organizations secure their information and maintain reliable operations.
