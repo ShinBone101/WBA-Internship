@@ -1,0 +1,48 @@
+Part A: Target Selection
+
+Website Name:
+Savitribai Phule Pune University (SPPU)
+
+Website URL:
+https://www.unipune.ac.in
+
+Reason for Choosing:
+Savitribai Phule Pune University was selected because it is a publicly accessible educational institution.
+The website is suitable for practicing passive reconnaissance techniques by gathering publicly available information without 
+interacting with or attempting to exploit any systems.
+This helps in understanding the reconnaissance phase of ethical hacking while following ethical and legal guidelines
+
+Part B: WHOIS Lookup
+Part C: DNS Enumeration
+screeenshot attached
+
+Part D: Website Technology Identification
+
+Summary
+The website technology identification was performed using the BuiltWith online tool.
+The analysis showed that the website is hosted on a Microsoft IIS 10 web server and developed using the ASP.NET framework.
+English was identified as the primary website language.
+Multiple Content Delivery Networks (CDNs), including BootstrapCDN, jsDelivr, AJAX Libraries API, and jQuery CDN, were detected to improve content delivery. 
+The website also uses several JavaScript libraries and components such as jQuery, Popper.js, and the Intersection Observer API.
+Additionally, Facebook SDK integration and a legacy Shockwave Flash Embed component were identified. 
+These technologies provide insight into the website's architecture and publicly exposed technology stack
+
+Part E: HTTP Security Headers
+| HTTP Security Header             | Present (Yes/No) | Purpose                                                                                   |
+| -------------------------------- | ---------------- | ----------------------------------------------------------------------------------------- |
+| Content-Security-Policy (CSP)    |   No             | Protects the website against Cross-Site Scripting (XSS) and unauthorized content loading. |
+| X-Frame-Options                  |   No             | Prevents clickjacking attacks by restricting the website from being embedded in frames.   |
+| X-Content-Type-Options           |   No             | Prevents browsers from MIME type sniffing and enforces the declared content type.         |
+| Strict-Transport-Security (HSTS) |   No             | Forces browsers to communicate with the website only over secure HTTPS connections.       |
+| Referrer-Policy                  |   No             | Controls the amount of referrer information shared when users navigate to other websites. |
+
+Part F: Robots.txt & Sitemap Analysis
+1.Does the website have a robots.txt file?
+Yes
+2.Does the website have a sitemap.xml file?
+Yes
+3.What information can be learned from these files?
+The robots.txt file specifies which directories and file types should not be crawled by search engines and provides the location of the XML sitemap.
+The sitemap lists important website URLs, enabling search engines to efficiently discover and index the university's webpages,
+including admissions, academic resources, research, scholarships, and other key sections.
+
